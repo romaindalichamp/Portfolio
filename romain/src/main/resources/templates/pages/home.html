@@ -5,7 +5,7 @@
 	<title>Romain DALICHAMP</title>
 </head>
 <body>
-	<h1 th:text="'Hi how are you ' + ${#strings.capitalize(name)} + ' !'">name</h1>
+	<h1 th:text="'Hi how are you: ' + ${#strings.capitalize(name)} + ' !'">name</h1>
 	<h1 th:text="'HelloPost ' + ${#strings.capitalize(namePost)} + ' !'">namePost</h1>
 	<form method="post" action="/?name=Romain">
 		<input id="namePost" type="text" />
