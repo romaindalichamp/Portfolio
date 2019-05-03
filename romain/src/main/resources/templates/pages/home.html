@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Romain DALICHAMP</title>
+</head>
+<body>
+	<h1 th:text="'Hello ' + ${#strings.capitalize(name)} + ' !'">name</h1>
+	<h1 th:text="'HelloPost ' + ${#strings.capitalize(namePost)} + ' !'">namePost</h1>
+	<form method="post" action="/?name=Romain">
+		<input id="namePost" type="text" />
+		<input type="submit" value="Envoyer" />
+	</form>
+</body>
+</html>
