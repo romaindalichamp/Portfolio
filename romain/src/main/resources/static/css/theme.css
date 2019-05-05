@@ -125,11 +125,11 @@ html body section#projects div#projectsContainer.container.h-100 div.content div
 }
 
 .iconBackground{
-	width: 150px;
+	width: 17vh;
 	height: 100%;
-	padding: 8px;
-	vertical-align:middle;
+	padding: 10px;
 	background:rgba(255,255,255,0.1);
+	margin:auto;
 }
 
 .iconBackground span{
