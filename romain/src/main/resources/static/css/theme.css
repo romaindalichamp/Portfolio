@@ -123,3 +123,16 @@ html body section#projects div#projectsContainer.container.h-100 div.content div
 .rowLogos{
 	margin-top: 50px;
 }
+
+.iconBackground{
+	width: 150px;
+	height: 100%;
+	padding: 8px;
+	vertical-align:middle;
+	background:rgba(255,255,255,0.1);
+}
+
+.iconBackground span{
+	font-weight: bold;
+	font-size: 18px;
+}
