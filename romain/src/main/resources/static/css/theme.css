@@ -63,11 +63,18 @@ body {
 #projectsContainer{}
 #resumeContainer{}
 
+#aboutMeName{
+	text-align:left;
+	font-size:3vw;
+}
+
 #aboutMeP1{
+	font-size:1vw;
 	margin-top: 20px;
   	max-width: 450px;
 }
 #aboutMeP2, #aboutMeP3{
+	font-size:1vw;
   	max-width: 350px;
 }
 
@@ -100,7 +107,19 @@ section {
 	width: 30%;
 }
 
+.col3.p{
+	text-align:center;
+}
+
 html body section#projects div#projectsContainer.container.h-100 div.content div.row div.col-4.text-center p.text-dark.bg-light{
 	padding: 3px;
 	font-size: 11px;
+}
+
+.knowledgeImgs{
+	height: 40px;
+}
+
+.rowLogos{
+	margin-top: 50px;
 }
