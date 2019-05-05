@@ -9,35 +9,141 @@
 		<title>Romain DALICHAMP</title>
 	</head>
 	<body>
-		<header class="masthead"> 
+		<header id="home" class="masthead"> 
 			<div class="container h-100">
-				<div class="row h-50 align-items-center">
+				<div class="content">
 					<div class="col-12 text-center">
-						<h1 class="display-4 text-white">Hey ! I am Romain,</h1>
+						<h1 class="display-4 text-white font-weight-bold">Hey ! I am Romain,</h1>
 						<p class="display-5 text-white">Software Designer and Developer</p>
 						<p>
-							<button type="button" id="mailto" class="btn btn-outline-light buttonOut">Contact me</button>
+							<button type="button" id="mailto" class="btn btn-light buttonOut">Contact me</button>
 						</p>
 						<p>
-							<button type="button" id="cv" class="btn btn-outline-light buttonOut">CV</button>
-							<button type="button" id="resume" class="btn btn-outline-light buttonOut">Resume</button>
+							<button type="button" id="cvButton" class="btn btn-outline-light buttonOut">CV</button>
+							<button type="button" id="resumeButton" class="btn btn-outline-light buttonOut">Resume</button>
 						</p>
-						<p>
-							<button type="button" id="more" class="btn btn-outline-light buttonAnchor">More<br/></button>
-						</p>
+					</div>
+				</div>
+				<div class="row align-items-end">
+					<div class="col-12 text-center">
+						<button type="button" id="more" class="btn btn-light buttonAnchor">More<br/></button>
 					</div>
 				</div>
 			</div>
 		</header>
 		<section id="aboutMe">
 			<div id="aboutMeContainer" class="container h-100">
-				<h1 class="display-4 text-white">Romain DALICHAMP</h1>
-				<p id="aboutMeP1" class="aboutMePClass display-5 text-white">Curious and determined,	I like to invest myself thoroughly.</p>
-				<p id="aboutMeP2" class="aboutMePClass display-5 text-white">The <b>software development profession</b> is a way to realize myself professionally allowing me to canalize my energy in knowledge, projects and efficiency. After <b>three years traveling</b> and working <b>around the world</b>, I am seeking a challenging position in <b>Java software development</b> or project management in <b>Canada</b>.</p>
+				<div class="content">
+					<h1 class="display-4 text-white">Romain DALICHAMP</h1>
+					<p id="aboutMeP1" class="aboutMePClass display-5 text-white">Curious and determined,	I like to invest myself thoroughly.</p>
+					<p id="aboutMeP2" class="aboutMePClass display-5 text-white">The <b>software development profession</b> is a way to realize myself professionally allowing me to canalize my energy in knowledge, projects and efficiency. </p>
+					<p id="aboutMeP3" class="aboutMePClass display-5 text-white">After <b>three years traveling</b> and working <b>around the world</b>, I am seeking a challenging position in <b>Java software development</b> or project management in <b>Canada</b>.</p>
+				</div>
+   				<div class="bottomButton margin-bottom w-100">
+					<button type="button" id="toProjects" class="btn btn-light buttonAnchor">Projects</button>
+				</div>
 			</div>
 		</section>
 		<section id="projects">
-			<div class="container h-100">
+			<div id="projectsContainer" class="container h-100">
+				<div class="content">
+					<div class="row">
+						<div class="col-12 text-center">
+							<h1 class="display-4 text-white font-weight-bold">Projects</h1>
+						</div>
+					</div>
+					<div class="row" style="margin-top: 40px;">
+						<div class="col-4 text-center">
+							<a href="http://cocora-aventuras.com" target="_blank">
+								<img src="img/cocora.jpg"  class="img-thumbnail" title="PHP - Website Hosting: Database, Domain name, Theme and modules installation, configuration and customization, Administrators formation in view of full autonomy , tutorials writing (best practices), Search Engine Optimisation (SEO), Developments: new hooks insertion, unique banner, template design modifications"/>
+							</a>
+							<p class="text-dark bg-light" >Prestashop - SEO - Mentoring - PHP Dev.</p>
+						</div>
+						<div class="col-4 text-center">
+							<a href="http://romain.dalichamp.fr/dissertation" target="_blank">
+								<img src="img/ssdpm.jpg"  class="img-thumbnail"/>
+							</a>
+							<p class="text-dark bg-light">
+								PHP - Framework design & dev. from scratch
+								<br/>
+								<a href="http://romain.dalichamp.fr/dissertation">Dissertation</a> - 
+								<a href="http://romain.dalichamp.fr/dissertation_presentation">Presentation</a>
+							</p>
+						</div>
+						<div class="col-4 text-center">
+							<a href="http:/www.marches-securises.fr" target="_blank">
+								<img src="img/interbat.jpg"  class="img-thumbnail" title=""/>
+							</a>
+							<p class="text-dark bg-light" >PHP - MySQL - CSS - Js - (Worked on Backend)</p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-4 text-center">
+							<a href="http://romain.dalichamp.fr/blog" target="_blank">
+								<img src="img/blogSciences.jpg"  class="img-thumbnail" title=""/>
+							</a>
+							<p class="text-dark bg-light" >Wordpress, Tech and Science Vulgarisation</p>
+						</div>
+						<div class="col-4 text-center">
+							<a href="http://romain.dalichamp.fr" target="_blank">
+								<img src="img/romainWebsite.jpg"  class="img-thumbnail" title=""/>
+							</a>
+							<p class="text-dark bg-light" >SpringBoot MVC - Thymeleaf - Bootstrap</p>
+						</div>
+						<div class="col-4 text-center">
+							<a href="http:/www.marches-securises.fr" target="_blank">
+								<img src="img/blogTravel.jpg"  class="img-thumbnail" title="3 Years World Tour Adventure"/>
+							</a>
+							<p class="text-dark bg-light" >
+								<a href="http://romain.dalichamp.fr/instagram">Instagram</a> - 
+								<a href="http://www.facebook.com/mylimbictrip">Facebook</a> - 
+								<a href="http://romain.dalichamp.fr/mylimbictrip">Blog</a> - 
+								<a href="http://romain.dalichamp.fr/youtube">Youtube</a> - 
+							</p>
+						</div>
+					</div>
+				</div>
+   				<div class="bottomButton margin-bottom w-100">
+					<button type="button" id="toResume" class="btn btn-light buttonAnchor">Resume</button>
+				</div>
+			</div>
+		</section>
+		<section id="resume">
+			<div id="resumeContainer" class="container h-100">
+				<div class="content">
+					<div class="row">
+						<div class="col-12 text-center">
+							<h1 class="display-4 text-white font-weight-bold">Resume</h1>
+						</div>
+					</div>
+					<div class="row" style="margin-top: 40px;">
+						<div class="col-12 text-center">
+							<a href="http://romain.dalichamp.fr/linkedin">
+								<img src="img/linkedin.png" class="bg-white rounded border border-light"/>
+							</a>
+						</div>
+					</div>
+					<div class="row" style="margin-top: 40px;">
+						<div class="col-12 text-center">
+						<button type="button" id="cvButton2" class="btn btn-success buttonOut">CV</button>
+						<button type="button" id="resumeButton2" class="btn btn-success buttonOut">Resume</button>
+						</div>
+					</div>
+					<div class="row" style="margin-top: 40px;">
+						<div class="col-12 text-center">
+						<button type="button" id=recommandationfr class="btn btn-success buttonOut">Lettre de Recommandation</button>
+						<button type="button" id="recommandationen" class="btn btn-success buttonOut">Recommandation Letter</button>
+						</div>
+					</div>
+					<div class="row" style="margin-top: 40px;">
+						<div class="col-12 text-center">
+						<button type="button" id="labourAustralia" class="btn btn-success buttonOut">Labour Australia</button>
+						</div>
+					</div>
+				</div>
+   				<div class="bottomButton margin-bottom w-100">
+					<button type="button" id="toHome" class="btn btn-light buttonAnchor">Home</button>
+				</div>
 			</div>
 		</section>
 		<script type="text/javascript" src="js/homeActions.js"></script>
