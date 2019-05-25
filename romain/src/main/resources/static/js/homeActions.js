@@ -9,6 +9,7 @@ var aboutMe	= "aboutMe";
 var projects= "projects";
 var resume	= "resume";
 var home	= "home";
+var moocs	= "moocs";
 
 //Buttons Click Action
 $( ".buttonOut" ).click(function() {	
@@ -35,6 +36,7 @@ $( ".buttonAnchor" ).click(function() {
 	  case "toProjects"	:anchor = projects;	break;
 	  case "toResume"	:anchor = resume; 	break;
 	  case "toHome"		:anchor = home; 	break;
+	  case "toMoocs"	:anchor = moocs; 	break;
 	  default:			anchor = aboutMe;	break;
 	} 
 

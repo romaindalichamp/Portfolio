@@ -11,50 +11,34 @@ body {
 .container{
 	padding: 30px;
 }
-.masthead {
-  height: 100vh;
-  min-height: 500px;
-  background-image: url(../img/rails.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
 
-#aboutMe {
+.backgrounds{
   	height: 100vh;
-  	min-height: 500px;
-  	background-image: url(../img/power.jpg);
+  	min-height: 700px;
   	background-size: cover;
   	background-position: center;
   	background-repeat: no-repeat;
   	padding: 30px;
 }
 
-#projects {
-  	height: 100vh;
-  	min-height: 500px;
-  	background-image: url(../img/hongkong.jpg);
-  	background-size: cover;
-  	background-position: center;
-  	background-repeat: no-repeat;
+
+.masthead {
+  background-image: url(../img/rails.jpg);
+}
+#aboutMe {
+    background-image: url(../img/power.jpg);
 }
 
 #projects {
-  	height: 100vh;
-  	min-height: 500px;
   	background-image: url(../img/hongkong.jpg);
-  	background-size: cover;
-  	background-position: center;
-  	background-repeat: no-repeat;
 }
 
 #resume {
-  	height: 100vh;
-  	min-height: 500px;
   	background-image: url(../img/sydney.jpg);
-  	background-size: cover;
-  	background-position: center;
-  	background-repeat: no-repeat;
+}
+
+#moocs {
+  	background-image: url(../img/bagan.jpg);
 }
 
 #aboutMeContainer{
@@ -107,7 +91,12 @@ section {
 	width: 30%;
 }
 
+.col-3{
+    margin-top: 50px;
+}
+
 .col3.p{
+    margin-top: 3em;
 	text-align:center;
 }
 
