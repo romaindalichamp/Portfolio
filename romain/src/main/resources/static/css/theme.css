@@ -112,7 +112,7 @@ html body section#projects div#projectsContainer.container.h-100 div.content div
 }
 
 .iconBackground{
-	width: 17vh;
+	min-width: 85px;
 	height: 100%;
 	padding: 10px;
 	background:rgba(255,255,255,0.1);
