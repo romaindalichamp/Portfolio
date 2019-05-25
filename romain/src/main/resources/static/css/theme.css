@@ -91,10 +91,6 @@ section {
 	width: 30%;
 }
 
-.col-3{
-    margin-top: 50px;
-}
-
 .col3.p{
     margin-top: 3em;
 	text-align:center;
@@ -110,7 +106,9 @@ html body section#projects div#projectsContainer.container.h-100 div.content div
 }
 
 .rowLogos{
-	margin-top: 50px;
+    margin-top: 0px !important;
+    margin: 0px !important;
+    padding: 10px !important;
 }
 
 .iconBackground{
