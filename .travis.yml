@@ -1,0 +1,22 @@
+language: java
+sudo: false
+install: true
+
+addons:
+  sonarcloud:
+    organization: "fukakai"
+    projectKey: "fukakai_Portfolio"
+    token:
+      secure: "e6a7bc3c847c0d2635024eaab92b2cf325418b9a"
+
+jdk:
+  - oraclejdk8
+
+script:
+  # JaCoCo is used to have code coverage, "-Pcoverage" activates the maven profile in the pom.xml
+  - mvn clean verify sonar:sonar -Pcoverage 
+
+cache:
+  directories:
+    - '$HOME/.m2/repository'
+    - '$HOME/.sonar/cache'
