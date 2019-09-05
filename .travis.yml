@@ -5,9 +5,8 @@ install: true
 addons:
   sonarcloud:
     organization: "fukakai"
-    projectKey: "fukakai_Portfolio"
     token:
-      secure: "e6a7bc3c847c0d2635024eaab92b2cf325418b9a"
+      secure: "68F0YFyaG18K7LZWHiwAGA"
 
 jdk:
   - oraclejdk8

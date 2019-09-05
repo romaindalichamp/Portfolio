@@ -11,7 +11,7 @@
 	<groupId>fr.dalichamp</groupId>
 	<artifactId>romain</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo-1</name>
+	<name>Portfolio</name>
 	<description>Romain DALICHAMP Presentation Website</description>
 
 	<properties>
