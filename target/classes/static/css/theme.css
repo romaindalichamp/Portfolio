@@ -1,0 +1,123 @@
+@charset "UTF-8";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+}
+.container{
+	padding: 30px;
+}
+
+.backgrounds{
+  	height: 100vh;
+  	min-height: 700px;
+  	background-size: cover;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	padding: 30px;
+}
+
+
+.masthead {
+  background-image: url(../img/rails.jpg);
+}
+#aboutMe {
+    background-image: url(../img/power.jpg);
+}
+
+#projects {
+  	background-image: url(../img/hongkong.jpg);
+}
+
+#resume {
+  	background-image: url(../img/sydney.jpg);
+}
+
+#moocs {
+  	background-image: url(../img/bagan.jpg);
+}
+
+#aboutMeContainer{
+	background:rgba(1,1,1,0.7);
+}
+
+#aboutMeName{
+	text-align:left;
+	font-size:3vw;
+}
+
+#aboutMeP1{
+	font-size:1.3vw;
+	margin-top: 20px;
+  	max-width: 450px;
+}
+#aboutMeP2, #aboutMeP3{
+	font-size:1.2vw;
+  	max-width: 350px;
+}
+
+.aboutMePClass{
+	text-align: justify;
+ 	text-justify: inter-word;
+	margin-left: 10px;
+}
+
+.content{
+	height: 95%;	
+}
+
+.bottomButton{
+	text-align:center;
+	height:35px;
+	bottom: 30px;
+}
+
+.btn{
+	min-width: 80px;
+}
+
+section {
+  height: 100vh;
+  min-height: 500px;
+}
+
+.col-4{
+	width: 30%;
+}
+
+.col3.p{
+    margin-top: 3em;
+	text-align:center;
+}
+
+html body section#projects div#projectsContainer.container.h-100 div.content div.row div.col-4.text-center p.text-dark.bg-light{
+	padding: 3px;
+	font-size: 11px;
+}
+
+.knowledgeImgs{
+	height: 40px;
+}
+
+.rowLogos{
+    padding: 10px !important;
+    margin: 0px !important;
+    margin-top: 0px !important;
+}
+
+.iconBackground{
+	min-width: 85px;
+	height: 100%;
+	padding: 10px;
+	background:rgba(255,255,255,0.1);
+	margin:auto;
+}
+
+.iconBackground span{
+	font-weight: bold;
+	font-size: 18px;
+}
