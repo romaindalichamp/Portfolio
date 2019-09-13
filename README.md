@@ -1,27 +1,26 @@
 #Portfolio
 Portfolio - Spring Boot &amp; Tomcat, Thymeleaf and Bootstrap
 <br/><br/>
-[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=fukakai_Portfolio)](https://sonarcloud.io/dashboard?id=fukakai_Portfolio)
+[![Server_Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=myportfolio)](https://sonarcloud.io/dashboard?id=myportfolio)
 <br/>
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=fukakai_Portfolio&metric=bugs)](https://sonarcloud.io/dashboard?id=fukakai_Portfolio)
+[![Server_Bugs](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=bugs)](https://sonarcloud.io/dashboard?id=myportfolio)
 <br/>
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=fukakai_Portfolio&metric=code_smells)](https://sonarcloud.io/dashboard?id=fukakai_Portfolio)
+[![Server_Code Smells](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=code_smells)](https://sonarcloud.io/dashboard?id=myportfolio)
 <br/>
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=fukakai_Portfolio&metric=coverage)](https://sonarcloud.io/dashboard?id=fukakai_Portfolio)
+[![Server_Coverage](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=coverage)](https://sonarcloud.io/dashboard?id=myportfolio)
 <br/>
-[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=fukakai_Portfolio&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=fukakai_Portfolio)
+[![Server_Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=myportfolio)
 <br/>
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=fukakai_Portfolio&metric=ncloc)](https://sonarcloud.io/dashboard?id=fukakai_Portfolio)
+[![Server_Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=ncloc)](https://sonarcloud.io/dashboard?id=myportfolio)
 <br/>
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=fukakai_Portfolio&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=fukakai_Portfolio)
+[![Server_Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=myportfolio)
 <br/>
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fukakai_Portfolio&metric=alert_status)](https://sonarcloud.io/dashboard?id=fukakai_Portfolio)
+[![Server_Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=alert_status)](https://sonarcloud.io/dashboard?id=myportfolio)
 <br/>
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=fukakai_Portfolio&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=fukakai_Portfolio)
+[![Server_Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=myportfolio)
 <br/>
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=fukakai_Portfolio&metric=security_rating)](https://sonarcloud.io/dashboard?id=fukakai_Portfolio)
+[![Server_Security Rating](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=security_rating)](https://sonarcloud.io/dashboard?id=myportfolio)
 <br/>
-[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=fukakai_Portfolio&metric=sqale_index)](https://sonarcloud.io/dashboard?id=fukakai_Portfolio)
+[![Server_Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=sqale_index)](https://sonarcloud.io/dashboard?id=myportfolio)
 <br/>
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=fukakai_Portfolio&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=fukakai_Portfolio)
-
+[![Server_Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=myportfolio)
