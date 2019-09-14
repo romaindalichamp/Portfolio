@@ -41,8 +41,13 @@ body {
   	background-image: url(../img/bagan.jpg);
 }
 
-#aboutMeContainer{
+.darkContainer{
 	background:rgba(1,1,1,0.7);
+}
+
+.text-light a{
+	color: white !important;
+	text-decoration: underline !important;	
 }
 
 #aboutMeName{
