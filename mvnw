@@ -17,7 +17,7 @@
 # specific language governing permissions and limitations
 # under the License.
 # ----------------------------------------------------------------------------
-
+# Romain ==> chmod +x mvnw
 # ----------------------------------------------------------------------------
 # Maven2 Start Up Batch script
 #
