@@ -71,6 +71,17 @@ body {
 	margin-left: 10px;
 }
 
+.aboutMeCode > a > img{
+	height: 5vw;
+}
+.aboutMeCode > p{
+	font-size: 1vw;
+}
+
+#aboutMeCodeHackerrank > a > img{
+	height: 7vw !important;
+}
+
 .content{
 	height: 95%;	
 }
