@@ -112,7 +112,11 @@ section {
 
 html body section#projects div#projectsContainer.container.h-100 div.content div.row div.col-4.text-center p.text-dark.bg-light{
 	padding: 3px;
-	font-size: 11px;
+	font-size: 12px;
+}
+
+section#projects img{
+	max-height: 11em;
 }
 
 .knowledgeImgs{
