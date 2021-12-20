@@ -56,13 +56,11 @@ body {
 }
 
 #aboutMeP1{
-	font-size:1.3vw;
+	font-size:1.1vw;
 	margin-top: 20px;
-  	max-width: 450px;
 }
 #aboutMeP2, #aboutMeP3{
-	font-size:1.2vw;
-  	max-width: 350px;
+	font-size:1vw;
 }
 
 .aboutMePClass{
@@ -72,14 +70,16 @@ body {
 }
 
 .aboutMeCode > a > img{
-	height: 5vw;
+	min-height: 50px;
+	height: 4vw;
 }
 .aboutMeCode > p{
 	font-size: 1vw;
 }
 
 #aboutMeCodeHackerrank > a > img{
-	height: 7vw !important;
+	min-height: 50px;
+	height: 4vw;
 }
 
 .content{
