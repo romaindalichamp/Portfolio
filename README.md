@@ -1,26 +1,24 @@
 #Portfolio
 Portfolio - Spring Boot &amp; Tomcat, Thymeleaf and Bootstrap
 <br/><br/>
-[![Server_Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=myportfolio)](https://sonarcloud.io/dashboard?id=myportfolio)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=romaindalichamp_Portfolio&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=romaindalichamp_Portfolio)
 <br/>
-[![Server_Bugs](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=bugs)](https://sonarcloud.io/dashboard?id=myportfolio)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=romaindalichamp_Portfolio&metric=bugs)](https://sonarcloud.io/summary/new_code?id=romaindalichamp_Portfolio)
 <br/>
-[![Server_Code Smells](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=code_smells)](https://sonarcloud.io/dashboard?id=myportfolio)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=romaindalichamp_Portfolio&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=romaindalichamp_Portfolio)
 <br/>
-[![Server_Coverage](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=coverage)](https://sonarcloud.io/dashboard?id=myportfolio)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=romaindalichamp_Portfolio&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=romaindalichamp_Portfolio)
 <br/>
-[![Server_Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=myportfolio)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=romaindalichamp_Portfolio&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=romaindalichamp_Portfolio)
 <br/>
-[![Server_Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=ncloc)](https://sonarcloud.io/dashboard?id=myportfolio)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=romaindalichamp_Portfolio&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=romaindalichamp_Portfolio)
 <br/>
-[![Server_Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=myportfolio)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=romaindalichamp_Portfolio&metric=coverage)](https://sonarcloud.io/summary/new_code?id=romaindalichamp_Portfolio)
 <br/>
-[![Server_Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=alert_status)](https://sonarcloud.io/dashboard?id=myportfolio)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=romaindalichamp_Portfolio&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=romaindalichamp_Portfolio)
 <br/>
-[![Server_Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=myportfolio)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=romaindalichamp_Portfolio&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=romaindalichamp_Portfolio)
 <br/>
-[![Server_Security Rating](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=security_rating)](https://sonarcloud.io/dashboard?id=myportfolio)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=romaindalichamp_Portfolio&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=romaindalichamp_Portfolio)
 <br/>
-[![Server_Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=sqale_index)](https://sonarcloud.io/dashboard?id=myportfolio)
-<br/>
-[![Server_Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=myportfolio&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=myportfolio)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=romaindalichamp_Portfolio&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=romaindalichamp_Portfolio)
