@@ -1,6 +1,7 @@
 var urlCv				= "http://romain.dalichamp.fr/cv_ca";
 var urlResume			= "http://romain.dalichamp.fr/resume_ca";
 var urlMail				= "mailto:romain.dalichamp@free.fr";
+var urlRecommandationAlithyaFr	= "http://romain.dalichamp.fr/recommandation_alithya_fr";
 var urlRecommandationFr	= "http://romain.dalichamp.fr/recommandation_fr";
 var urlRecommandationEn	= "http://romain.dalichamp.fr/recommandation_en";
 var urlLabourAustralia	= "http://romain.dalichamp.fr/resume_farm_au";
@@ -21,6 +22,7 @@ $( ".buttonOut" ).click(function() {
 	  case "resumeButton2"	:url = urlResume; 	break;
 	  case "mailto"			:url = urlMail; 	break;
 	  case "recommandationfr":url = urlRecommandationFr; 	break;
+	  case "recommandationalithyafr":url = urlRecommandationAlithyaFr; 	break;
 	  case "recommandationen":url = urlRecommandationEn; 	break;
 	  case "labourAustralia":url = urlLabourAustralia; 		break;
 	  default				:url = url_resume; 	break;
